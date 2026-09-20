@@ -422,6 +422,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Local History MCP](https://github.com/xxczaki/local-history-mcp)** – MCP server for accessing VS Code/Cursor's Local History.
 - **[🧲 Magg 🧲](https://github.com/sitbon/magg)** - A meta-MCP server that acts as a universal hub, allowing LLMs to autonomously discover, install, and orchestrate multiple MCP servers - essentially giving AI assistants the power to extend their own capabilities on-demand.
 - **[Make](https://github.com/integromat/make-mcp-server)** - Turn your Make scenarios into callable tools for AI assistants.
+- **[MarketNow](https://github.com/alicelabs-llc/universal-trust-adapter)** - Free trust layer for MCP agents: verify credentials (8 formats incl. JWT, W3C VC, X.509), scam-check domains, fingerprint tool definitions against tool-poisoning, and search a 68k+ MCP server registry. Remote endpoint, fail-closed, no API keys
 - **[Maven](https://github.com/Bigsy/maven-mcp-server)** - Tools to query latest Maven dependency information
 - **[Maven Tools](https://github.com/arvindand/maven-tools-mcp)** - Enhanced Maven Central integration with intelligent caching, bulk operations, and version classification
 - **[Maya MCP](https://github.com/PatrickPalmer/MayaMCP)** - MCP server for Autodesk Maya
